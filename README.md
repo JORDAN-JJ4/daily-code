@@ -29,3 +29,20 @@ A modern landing page built using HTML, CSS and JavaScript.
 - Flexbox
 - Responsive Design
 - JavaScript Events
+
+## Day 03 - Modern Login Page
+
+### Project
+A responsive login page with glassmorphism UI and password visibility toggle.
+
+### Features
+- Username input
+- Password input
+- Show/Hide password
+- Responsive layout
+- Modern design
+
+### Skills Learned
+- HTML Forms
+- CSS Glassmorphism
+- JavaScript Events
